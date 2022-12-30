@@ -161,6 +161,7 @@ align-items: center;
     
 
 }
+
 .card_2{
     grid-area: t;
     display: flex;
@@ -239,7 +240,6 @@ grid-area: th;
 display: flex;
 justify-content: center;
 align-items: center;
-max-width: 746px;
 height: 618PX;
 width: 100%;
 background: #E1E1E1;
